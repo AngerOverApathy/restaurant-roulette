@@ -3,7 +3,7 @@
 #### Make deciding where to eat fun!
 
 ## Link:
-https://gasomer75.github.io/restaurant-roulette/
+https://angeroverapathy.github.io/restaurant-roulette/
 
 ## Overview
 
